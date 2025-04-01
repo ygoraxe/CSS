@@ -7,7 +7,9 @@
   
 <h4>Com o meu empenho e dedicação consegui este resultado:</h4>
 
-<img width="600px" src=""/> <img width="600px" src=""/>
+<img width="600px" src="https://github.com/ygoraxe/CSS/blob/main/img/desktop-coverage.png?raw=true"/> <img height="300px" src="https://github.com/ygoraxe/CSS/blob/main/img/mobile-coverage.png?raw=true"/>
+
+<p>Estou sempre em busca de evolução técnica e profissional, pois acredito que a chave do sucesso está na persistência e na perseverança!</p>
 
 
 
